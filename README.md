@@ -1,2 +1,2 @@
-# DEEP
+JavaScript
 learning javascript
